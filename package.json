@@ -1,0 +1,25 @@
+{
+  "name": "w-miki",
+  "description": "MongoDB-based wiki developed initially during a coding dojo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/maceio-mug/w-miki",
+  "main": "server.js",
+  "author": [
+    {
+      "name": "Maceió-MUG",
+      "url": "http://www.meetup.com/Maceio-MongoDB-User-Group/"
+    }
+  ],
+  "dependencies": {
+    "express": ">=3.4",
+    "mongodb": ">=1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maceio-mug/w-miki.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maceio-mug/w-miki/issues"
+  },
+  "license": "Public Domain"
+}
